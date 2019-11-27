@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,7 +73,7 @@
       <updated>1574831991944</updated>
       <workItem from="1574831993226" duration="1533000" />
       <workItem from="1574869288904" duration="6242000" />
-      <workItem from="1574883260313" duration="41000" />
+      <workItem from="1574883260313" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -132,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574883081216</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="html to HTML">
+      <created>1574883321011</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1574883321011</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,6 +163,7 @@
     <MESSAGE value="images change" />
     <MESSAGE value="add home work" />
     <MESSAGE value="improve css" />
-    <option name="LAST_COMMIT_MESSAGE" value="improve css" />
+    <MESSAGE value="html to HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="html to HTML" />
   </component>
 </project>
