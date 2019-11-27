@@ -5,7 +5,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework/homework1/CSS/recipe.css" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework1/CSS/recipe.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework/homework1/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework1/pie.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1574831991944</updated>
       <workItem from="1574831993226" duration="1533000" />
-      <workItem from="1574869288904" duration="2756000" />
+      <workItem from="1574869288904" duration="5067000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -112,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574833158835</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="improve css">
+      <created>1574872088120</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574872088120</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
