@@ -1,0 +1,30 @@
+p{
+    font-family: Arial;
+    font-size: 15px;
+
+}
+
+h1{
+   color:darkgreen;
+}
+
+h3{
+  color: green;
+}
+
+p.italic
+{
+    font-style: italic;
+}
+
+a.bigfont20
+{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+body{
+
+    background-repeat: no-repeat;
+
+}
