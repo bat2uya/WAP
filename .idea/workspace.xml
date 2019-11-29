@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/homework/homework2/css/movie.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework2/tmnt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework4/CSS/nerdluv.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework4/signup.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework/homework1/pie.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework1/pie.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/lab1/aboutme.html" beforeDir="false" afterPath="$PROJECT_DIR$/lab/lab1/aboutme.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -83,7 +81,8 @@
       <workItem from="1574883260313" duration="764000" />
       <workItem from="1574887321373" duration="332000" />
       <workItem from="1574986303689" duration="624000" />
-      <workItem from="1574987427869" duration="3478000" />
+      <workItem from="1574987427869" duration="4189000" />
+      <workItem from="1575045952593" duration="459000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -183,7 +182,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574883980494</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="LAB2">
+      <created>1575006322421</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1575006322421</updated>
+    </task>
+    <task id="LOCAL-00016" summary="LAB2">
+      <created>1575006394439</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1575006394439</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +222,7 @@
     <MESSAGE value="add home work" />
     <MESSAGE value="improve css" />
     <MESSAGE value="html to HTML" />
-    <option name="LAST_COMMIT_MESSAGE" value="html to HTML" />
+    <MESSAGE value="LAB2" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAB2" />
   </component>
 </project>
