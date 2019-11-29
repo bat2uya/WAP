@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
+    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="CSS">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/homework/homework4/signup.html" beforeDir="false" afterPath="$PROJECT_DIR$/homework/homework4/signup.html" afterDir="false" />
     </list>
@@ -80,7 +80,7 @@
       <workItem from="1574887321373" duration="332000" />
       <workItem from="1574986303689" duration="624000" />
       <workItem from="1574987427869" duration="4189000" />
-      <workItem from="1575045952593" duration="1338000" />
+      <workItem from="1575045952593" duration="1434000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -208,7 +208,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575046506521</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="CSS">
+      <created>1575047303453</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1575047303453</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +244,7 @@
     <MESSAGE value="LAB2" />
     <MESSAGE value="LAB4" />
     <MESSAGE value="images" />
-    <option name="LAST_COMMIT_MESSAGE" value="images" />
+    <MESSAGE value="CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="CSS" />
   </component>
 </project>
