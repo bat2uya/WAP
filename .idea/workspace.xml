@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lab/CSS/grade.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/grade/grade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/beerapp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/src/main/com/model/BeerExpert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/src/main/com/web/BeerSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/beerapp/src/main/webapp/form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -91,7 +110,8 @@
       <workItem from="1575045952593" duration="2830000" />
       <workItem from="1575256673905" duration="1341000" />
       <workItem from="1575266105291" duration="715000" />
-      <workItem from="1575302509083" duration="324000" />
+      <workItem from="1575302509083" duration="1155000" />
+      <workItem from="1575317436924" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -240,7 +260,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575266159315</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="grade">
+      <created>1575302858445</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1575302858445</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,6 +298,7 @@
     <MESSAGE value="images" />
     <MESSAGE value="CSS" />
     <MESSAGE value="jsp demo" />
-    <option name="LAST_COMMIT_MESSAGE" value="jsp demo" />
+    <MESSAGE value="grade" />
+    <option name="LAST_COMMIT_MESSAGE" value="grade" />
   </component>
 </project>
