@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:21:54 -0600] "GET /test HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:21:54 -0600] "GET /test/ HTTP/1.1" 304 - http-bio-8080-exec-2 32
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:21:55 -0600] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:22:03 -0600] "GET /test/SimplestServlet HTTP/1.1" 200 154 http-bio-8080-exec-4 8
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:22:13 -0600] "GET /test/helloworld HTTP/1.1" 404 981 http-bio-8080-exec-5 8
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:22:21 -0600] "GET /test/HelloWorldServlet HTTP/1.1" 200 70 http-bio-8080-exec-6 0
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:10:33:52 -0600] "GET /test/SimplestServlet HTTP/1.1" 200 154 http-bio-8080-exec-8 4
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:13:42:22 -0600] "GET /test HTTP/1.1" 302 - http-bio-8080-exec-10 0
+0:0:0:0:0:0:0:1 - - [02/Dec/2019:13:42:22 -0600] "GET /test/ HTTP/1.1" 304 - http-bio-8080-exec-10 20

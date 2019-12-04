@@ -1,0 +1,14 @@
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:15:57 -0600] "GET /test HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:15:58 -0600] "GET /test/ HTTP/1.1" 200 52 http-bio-8080-exec-2 850
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:18:02 -0600] "GET /test/ HTTP/1.1" 200 153 http-bio-8080-exec-1 48
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:18:34 -0600] "GET /test/ HTTP/1.1" 304 - http-bio-8080-exec-2 6
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:18:37 -0600] "GET /test/ HTTP/1.1" 304 - http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:19:09 -0600] "GET /test HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:19:09 -0600] "GET /test/ HTTP/1.1" 200 159 http-bio-8080-exec-2 17
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:47:28 -0600] "GET /test HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:47:28 -0600] "GET /test/ HTTP/1.1" 304 - http-bio-8080-exec-2 19
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:47:42 -0600] "GET /SimplestServlet HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:47:47 -0600] "GET /test/SimplestServlet HTTP/1.1" 200 154 http-bio-8080-exec-4 4
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:47:48 -0600] "POST /test/SimplestServlet HTTP/1.1" 200 82 http-bio-8080-exec-5 1
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:48:25 -0600] "GET /test/SimplestServlet HTTP/1.1" 200 154 http-bio-8080-exec-6 1
+0:0:0:0:0:0:0:1 - - [01/Dec/2019:23:48:26 -0600] "POST /test/SimplestServlet HTTP/1.1" 200 82 http-bio-8080-exec-7 1
