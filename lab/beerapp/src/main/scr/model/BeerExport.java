@@ -1,6 +1,7 @@
-package com.model;
+package scr.model;
+
 import java.util.*;
-public class BeerExpert {
+public class BeerExport {
     public List getBrands(String color) {
         List brands = new ArrayList();
         if (color.equals("amber")) {
