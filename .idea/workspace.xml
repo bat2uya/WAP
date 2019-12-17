@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="" />
+    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,7 @@
       <workItem from="1575609178249" duration="447000" />
       <workItem from="1576614400432" duration="1661000" />
       <workItem from="1576616096476" duration="24000" />
-      <workItem from="1576616148775" duration="385000" />
+      <workItem from="1576616148775" duration="753000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -290,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576616465188</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="lab and home worksf">
+      <created>1576616596528</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1576616596528</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -323,6 +333,7 @@
     <MESSAGE value="jsp demo" />
     <MESSAGE value="grade" />
     <MESSAGE value="lab and home works" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab and home works" />
+    <MESSAGE value="lab and home worksf" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab and home worksf" />
   </component>
 </project>
