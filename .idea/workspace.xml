@@ -1,126 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
+    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="lab and home works">
+      <change afterPath="$PROJECT_DIR$/homework/homework3/grade.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework8/ascii.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework9/Fifteenpuzzle.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homework/homework9/fifteen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/artifacts/BeerDemo_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/BeerDemo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/out/artifacts/BeerDemo_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/out/artifacts/BeerDemo_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/BeerDemo/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/artifacts/beerDemo1_ear_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/artifacts/beerDemo1_war_exploded.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/META-INF/application.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/beerDemo1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/out/artifacts/beerDemo1_ear_exploded/META-INF/application.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/out/artifacts/beerDemo1_ear_exploded/web.war/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/out/artifacts/beerDemo1_ear_exploded/web.war/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/out/artifacts/beerDemo1_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/out/artifacts/beerDemo1_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/web/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerDemo1/web/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/beerapp.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/src/main/scr/model/BeerExport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/src/main/scr/model/BeerSelect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/src/main/webapp/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/beerapp/target/tomcat/logs/access_log.2019-12-03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/calculator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/src/main/scr/calculate1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/target/tomcat/logs/access_log.2019-12-02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/calculator/target/tomcat/logs/access_log.2019-12-03" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/libraries/Java_EE_6_Java_EE_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/libraries/Java_EE_6_Java_EE_6__2_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.annotation.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.ejb.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.jms.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.persistence.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.resource.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.servlet.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.servlet.jsp.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.servlet.jsp.jstl.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/lib/javax.transaction.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/src/main/java/mum.cs472/HelloWorldServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/src/main/java/mum.cs472/SimplestServlet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/src/main/webapp/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/classes/mum/cs472/HelloWorldServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/classes/mum/cs472/SimplestServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/conf/logging.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/conf/tomcat-users.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/conf/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/logs/access_log.2019-12-01" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/logs/access_log.2019-12-02" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/work/Tomcat/localhost/test/org/apache/jsp/index_jsp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab/simpledemo/target/tomcat/work/Tomcat/localhost/test/org/apache/jsp/index_jsp.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -209,6 +96,9 @@
       <workItem from="1575302509083" duration="1155000" />
       <workItem from="1575317436924" duration="716000" />
       <workItem from="1575443412835" duration="2997000" />
+      <workItem from="1575609178249" duration="447000" />
+      <workItem from="1576614400432" duration="1661000" />
+      <workItem from="1576616096476" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>

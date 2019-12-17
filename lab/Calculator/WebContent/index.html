@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+<form action="calculate" method="post">
+    <div >
+        <input type="text" name="firstNumberSum" size="1" pattern="[0-9]" id="firstNumberSum">&nbsp;+&nbsp;
+        <input
+            type="text" pattern="[0-9]" size="1" name="secondNumberSum" id="secondNumberSum">  
+    </div>
+    <br>
+    <div class="calculate-block">
+        <input type="text" name="firstNumberMultiplication" size="1" pattern="[0-9]" id="firstNumberMultiplication">&nbsp;*&nbsp;<input
+            type="text" size="1" pattern="[0-9]" name="secondNumberMultiplication" id="secondNumberMultiplication">
+    </div>
+  
+    <div >
+        <input type="submit" value="Submit">
+    </div>
+      <br>
+</form>
+
+<form action="calculate1" method="post">
+    <div >
+        <input type="text" name="firstNumberSum1" size="1" pattern="[0-9]" id="firstNumberSum1">&nbsp;+&nbsp;<input
+            type="text" pattern="[0-9]" size="1" name="secondNumberSum1" id="secondNumberSum1">&nbsp;=&nbsp;<input
+            type="text" name="resultSum1" id="resultSum1" size="1" readonly>
+    </div>
+    <br>
+    <div >
+        <input type="text" name="firstNumberMultiplication1" size="1" pattern="[0-9]" id="firstNumberMultiplication1">&nbsp;*&nbsp;<input
+            type="text" size="1" pattern="[0-9]" name="secondNumberMultiplication1" id="secondNumberMultiplication1">&nbsp;=&nbsp;<input
+            type="text" name="resultMultiplication1" size="1" id="resultMultiplication1" readonly>
+    </div>
+ 
+    <div >
+        <input type="submit" value="Submit">
+    </div>
+</form>
+
+</body>
+</html>
