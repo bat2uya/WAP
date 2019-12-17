@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="lab and home works">
-      <change afterPath="$PROJECT_DIR$/homework/homework3/grade.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework8/ascii.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework9/Fifteenpuzzle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework/homework9/fifteen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +92,7 @@
       <workItem from="1575609178249" duration="447000" />
       <workItem from="1576614400432" duration="1661000" />
       <workItem from="1576616096476" duration="24000" />
+      <workItem from="1576616148775" duration="140000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -275,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575445516161</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="lab and home works">
+      <created>1576616246183</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1576616246183</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
