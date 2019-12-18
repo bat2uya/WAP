@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +95,7 @@
       <workItem from="1575609178249" duration="447000" />
       <workItem from="1576614400432" duration="1661000" />
       <workItem from="1576616096476" duration="24000" />
-      <workItem from="1576616148775" duration="1404000" />
+      <workItem from="1576616148775" duration="1956000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -313,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576617243381</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="lab and hom">
+      <created>1576617587926</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1576617587926</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -347,6 +355,7 @@
     <MESSAGE value="grade" />
     <MESSAGE value="lab and home works" />
     <MESSAGE value="lab and home worksf" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab and home worksf" />
+    <MESSAGE value="lab and hom" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab and hom" />
   </component>
 </project>
