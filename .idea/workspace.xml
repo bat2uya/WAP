@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="82b8a211-1970-4a47-a764-198223c5ed4c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +92,7 @@
       <workItem from="1575609178249" duration="447000" />
       <workItem from="1576614400432" duration="1661000" />
       <workItem from="1576616096476" duration="24000" />
-      <workItem from="1576616148775" duration="1956000" />
+      <workItem from="1576616148775" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="changes">
       <created>1574832231715</created>
@@ -321,7 +318,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576617587926</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="lab diction">
+      <created>1576651461149</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1576651461149</updated>
+    </task>
+    <task id="LOCAL-00034" summary="lab diction">
+      <created>1576651659967</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1576651659967</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +367,7 @@
     <MESSAGE value="lab and home works" />
     <MESSAGE value="lab and home worksf" />
     <MESSAGE value="lab and hom" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab and hom" />
+    <MESSAGE value="lab diction" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab diction" />
   </component>
 </project>
